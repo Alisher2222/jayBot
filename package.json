@@ -1,0 +1,11 @@
+{
+  "name": "tg-reminder-bot",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
