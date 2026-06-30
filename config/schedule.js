@@ -7,8 +7,8 @@ export const TIMEZONE = process.env.TIMEZONE || "Asia/Almaty";
 export const STUDENT_SCHEDULES = {
   "-4560939511": {
     2: ["20:05", "20:55"],
-    "-5317150853": {
-      2: ["20:05", "20:55"],
-    },
+  },
+  "-5317150853": {
+    2: ["20:05", "20:55"],
   },
 };
