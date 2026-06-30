@@ -1,5 +1,5 @@
 // Часовой пояс
-export const TIMEZONE = process.env.TIMEZONE || "Asia/Astana";
+export const TIMEZONE = process.env.TIMEZONE || "Asia/Almaty";
 
 // Расписание каждого ученика
 // Ключ — Chat ID (строка), значение — объект { день: ['HH:MM', ...] }
